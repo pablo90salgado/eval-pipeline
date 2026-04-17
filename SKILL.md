@@ -1,12 +1,7 @@
 ---
 name: eval-pipeline
-description: |
-  Designs and runs evaluation pipelines for AI models and agents.
-  Use this skill when the user says: "evaluate this model", "measure response quality",
-  "compare two prompts", "build a benchmark", "test the agent against real cases",
-  "calculate accuracy", "how good is my prompt", "eval dataset", "measure my agent",
-  "A/B test prompts", "score the outputs". Generates evaluation datasets, defines
-  relevant metrics and produces comparison reports between versions.
+description: Designs and runs evaluation pipelines for AI models and agents. Builds benchmarks, computes prompts, calculates accuracy and produces comparison reports between versions.
+license: MIT
 ---
 
 # Eval Pipeline
